@@ -1,0 +1,11 @@
+{
+  "name": "apiusuar",
+  "version": "1.0.0",
+  "description": "'Esta será la api para el ingreso de datos de usuarios'",
+  "main": "corried.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JuAlVati",
+  "license": "ISC"
+}
